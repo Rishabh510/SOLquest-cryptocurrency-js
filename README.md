@@ -1,3 +1,9 @@
+# Screenshots
+
+![](./images/1.PNG)
+![](./images/2.PNG)
+![](./images/3.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
